@@ -1,0 +1,19 @@
+{
+  "name": "status-check",
+  "version": "1.0.0",
+  "description": "checks http status, sends a text if status is not 200 (OK)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeMeistet/status-check.git"
+  },
+  "author": "Jake Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeMeistet/status-check/issues"
+  },
+  "homepage": "https://github.com/JakeMeistet/status-check#readme"
+}
